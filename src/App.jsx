@@ -1,10 +1,12 @@
+import About from "./components/About";
 import Navbar from "./components/Navbar";
 
 function App() {
   return (
     <>
-      <div className="text-white bg-black">
+      <div className="text-gray-200 bg-black">
         <Navbar />
+        <About />
       </div>
     </>
   );

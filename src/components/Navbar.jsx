@@ -8,7 +8,7 @@ const Navbar = () => {
   return (
     <nav
       className="text-white flex justify-between items-center bg-gradient-to-r from-black via-gray-900 to-black px-6 py-4 drop-shadow-xl 
-    backdrop-blur-md shadow-xl z-10 sticky top-0"
+    backdrop-blur-md shadow-xl z-10 sticky top-0 border-b border-gray-800"
     >
       {/* Logo */}
       <div className="text-xl font-bold">Usha</div>
