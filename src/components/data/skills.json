@@ -1,0 +1,42 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "html.svg"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "css.svg"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "js.svg"
+  },
+  {
+    "title": "React",
+    "imageSrc": "react.svg"
+  },
+  {
+    "title": "Tailwind CSS ",
+    "imageSrc": "tailwind.svg"
+  },
+  {
+    "title": "Firebase",
+    "imageSrc": "firebase.svg"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "node.svg"
+  },
+  {
+    "title": "Express",
+    "imageSrc": "express.svg"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "mongodb.svg"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "figma.svg"
+  }
+]
