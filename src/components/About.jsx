@@ -10,7 +10,7 @@ const About = () => {
 
   return (
     <section id="about">
-      <div className="container py-5 md:py-16 mx-auto px-6 md:px-12 flex flex-col md:flex-row items-center justify-between gap-5">
+      <div className="container py-5 md:py-14 mx-auto px-6 md:px-12 flex flex-col md:flex-row items-center justify-between gap-5">
         {/* Image*/}
         <div className="md:w-1/2 flex justify-center" data-aos="fade-right">
           <img

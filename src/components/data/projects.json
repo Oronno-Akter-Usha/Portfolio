@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Ink Scape",
+    "description": "An engaging art website where users can browse pictures and contribute their own. Registered users can manage their uploads with ease and customize their experience with light/dark mode.",
+    "imageSrc": "inkScape.png",
+    "liveSite": "https://inkscape-215ef.web.app/",
+    "clientGitHub": "https://github.com/Oronno-Akter-Usha/inkScape-client",
+    "serverGitHub": "https://github.com/Oronno-Akter-Usha/inkScape-server"
+  },
+  {
+    "id": 2,
+    "title": "Casa Quest",
+    "description": "A user-friendly real estate website designed to help users easily browse properties and save favorites to a wishlist. The platform ensures a smooth and engaging experience for finding the perfect property.",
+    "imageSrc": "casaQuest.png",
+    "liveSite": "https://your-ecommerce-site.com",
+    "clientGitHub": "https://github.com/Oronno-Akter-Usha/casaQuest"
+  },
+  {
+    "id": 3,
+    "title": "Saffari Tour",
+    "description": "A responsive tour website showcasing packages and destinations with a user-friendly interface.",
+    "imageSrc": "saffariTour.png",
+    "liveSite": "https://oronno-akter-usha.github.io/assignment-2-travel/",
+    "clientGitHub": "https://github.com/Oronno-Akter-Usha/assignment-2-travel"
+  }
+]
