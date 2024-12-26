@@ -1,4 +1,4 @@
-# Portfolio Website
+# Portfolio
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and contact information in an elegant and interactive way. The portfolio is built with **React.js** and styled using **Tailwind CSS**, with animations powered by **AOS (Animate On Scroll)**.
 
